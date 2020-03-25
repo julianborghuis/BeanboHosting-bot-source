@@ -1,0 +1,21 @@
+{
+  "name": "sundeep",
+  "version": "1.0.0",
+  "description": "sundeeps bot made by GoodLuck#2679 D-Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GoodLuck#2679",
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaway": "^3.0.0",
+    "discord-giveaways": "^2.3.0",
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^1.0.0"
+  }
+}
